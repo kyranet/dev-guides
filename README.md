@@ -4,7 +4,7 @@
 
 ## Introduction
 
-So you're into programming or development of something? Thats awesome! We really want you to succeed with your projects and keep your interests! Even if you know nothing about programming or even just a tiny bit, you're more than welcome here. The world is in need of new developers and programmers. If you can master just a tiny bit of programming, you're already in the "cool kids club" that companies are looking for. The starting path is hard and you might feel alone and intimidated by all the new information swirling around in your head. Trust me, we have all been there at some point. As said, we want you to succeed, and therefore we want this server to be your friend and help you as you're getting started.
+So you're into programming or development of something? Thats awesome! We really want you to succeed with your projects and keep your interests! Even if you know nothing about programming or even just a tiny bit, you're more than welcome here. The world is in need of new developers and programmers. If you can master just a tiny bit of programming, you're already in the "cool kids club" that companies are looking for. The starting path is hard and you might feel alone and intimidated by all the new information swirling around in your head. Trust me, we have all been there at some point. As said, we want you to succeed, and therefore we want this book to be your friend and help you as you're getting started.
 
 ***
 
