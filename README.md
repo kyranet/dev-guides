@@ -10,7 +10,7 @@ So you're into programming or development of something? Thats awesome! We really
 
 The world of developers might be scary for you, do not worry, it was once for most of us, but at the same time, our curiosity makes us develop new things, what you can do in this world is limited only by your imagination, **you** are the creator, and that's such an amazing experience.
 
-There is probably nothing we can do to express what we feel when we make our first [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) drawing pyramids, or games, such as the [snake game](https://en.wikipedia.org/wiki/Snake_(video_game)), even a basic websites, that is the success, something we love.t
+There is probably nothing we can do to express what we feel when we make our first [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) drawing pyramids, or games, such as the [snake game](https://en.wikipedia.org/wiki/Snake_(video_game)), even a basic websites, that is the success, something we love.
 
 ***
 
