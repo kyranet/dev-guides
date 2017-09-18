@@ -4,13 +4,13 @@
 
 ## Introduction
 
-So you're into programming or development of someting? Thats awesome! We really want you to succeed with your projects and keep your interests! Even if you know nothing about programming or even just a tiny bit, you're more than welcome here. The world is in need of new developers and programmers. If you can master just a tiny bit of programming, you're already in the "cool kids club" that companies are looking for. The starting path is hard and you might feel alone and intimidated by all the new information swirling around in your head. Trust me, we have all been there at some point. As said, we want you to succeed, and therefore we want this server to be your friend and help you as you're getting started.
+So you're into programming or development of something? Thats awesome! We really want you to succeed with your projects and keep your interests! Even if you know nothing about programming or even just a tiny bit, you're more than welcome here. The world is in need of new developers and programmers. If you can master just a tiny bit of programming, you're already in the "cool kids club" that companies are looking for. The starting path is hard and you might feel alone and intimidated by all the new information swirling around in your head. Trust me, we have all been there at some point. As said, we want you to succeed, and therefore we want this server to be your friend and help you as you're getting started.
 
 ***
 
 The world of developers might be scary for you, do not worry, it was once for most of us, but at the same time, our curiosity makes us develop new things, what you can do in this world is limited only by your imagination, **you** are the creator, and that's such an amazing experience.
 
-There is probably nothing we can do to express what we feel when we make our first [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) drawing pyramids, or games, such as the [snake game](https://en.wikipedia.org/wiki/Snake_(video_game)), even a basic websites, that is the success, something we love.
+There is probably nothing we can do to express what we feel when we make our first [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) drawing pyramids, or games, such as the [snake game](https://en.wikipedia.org/wiki/Snake_(video_game)), even a basic websites, that is the success, something we love.t
 
 ***
 
